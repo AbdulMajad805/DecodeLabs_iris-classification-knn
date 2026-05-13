@@ -1,4 +1,4 @@
-# Iris Flower Classification using K-Nearest Neighbors (KNN) 🌸
+# Iris Flower Classification using K-Nearest Neighbors (KNN)
 
 I developed this project as part of my Artificial Intelligence Internship at DecodeLabs.
 
@@ -6,7 +6,7 @@ The objective of this project is to build a basic machine learning classificatio
 
 ---
 
-## 🚀 Features
+## Features
 
 - Dataset loading and exploration
 - Data preprocessing and feature scaling
